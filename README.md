@@ -8,7 +8,7 @@ I'm learning Playwright.
 Extracted the login function. Username and password are now the attributes of the login function. 
 I can call a function in one of the ways:
 login(page) => username and password are default
-login(page, "alernative_username") => different username, standard password
+login(page, "alternative_username") => different username, standard password
 login(page, password="alternative_password") => standard user, different password
 
 Tested the product pictures. 
